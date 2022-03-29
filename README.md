@@ -1,7 +1,8 @@
 
 ## Prerequisites
 
-* Java
+* Java    (sudo yum install java-1.8.0-openjdk)
+* Install brew (https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-cli-install-linux-alt.html)
 * [Leiningen](http://leiningen.org/) (can be installed using `brew install leiningen`)
 * AWS Account
 * AWS cli configured on your system with admin privleges
